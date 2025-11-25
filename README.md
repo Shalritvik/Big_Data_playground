@@ -38,8 +38,8 @@ This playground is built upon the following core technologies:
 
 **Shal Ritvik Sinha**
 
-  * **GitHub:** [Shalritvik](https://github.com/Shalritvik) [cite: 3]
-  * **LinkedIn:** [shal-ritvik-sinha](https://www.linkedin.com/in/shal-ritvik-sinha) [cite: 3]
+  * **GitHub:** [Shalritvik](https://github.com/Shalritvik)
+  * **LinkedIn:** [shal-ritvik-sinha](https://www.linkedin.com/in/shal-ritvik-sinha)
 
 -----
 
